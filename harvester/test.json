@@ -1,0 +1,1031 @@
+[
+    {
+        "created_at": "Thu Apr 16 07:49:34 +0000 2020",
+        "id": 1250692797293887488,
+        "id_str": "1250692797293887488",
+        "text": "RT @tagirqaufa: \u0414\u0440\u0443\u0437\u044c\u044f, \u043c\u043e\u044f \u0441\u0443\u043f\u0440\u0443\u0433\u0430 \u0438\u0437-\u0437\u0430 \u043a\u0440\u0438\u0437\u0438\u0441\u0430 \u043e\u0441\u0442\u0430\u043b\u0430\u0441\u044c \u0431\u0435\u0437 \u0440\u0430\u0431\u043e\u0442\u044b, \u0435\u0435 \u044d\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u043f\u0430\u0440\u0438\u0442 :(\n\u041c\u043e\u0436\u0435\u0442 \u043a\u043e\u043c\u0443 \u043d\u0443\u0436\u0435\u043d Python Developer, \u043e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1694129923,
+            "id_str": "1694129923",
+            "name": "el pistolero 20!8",
+            "screen_name": "dimaskin_nv",
+            "location": "New-York",
+            "url": null,
+            "description": "\u041d\u0435\u0444\u0442\u044c \u0434\u0435\u0448\u0435\u0432\u0435\u0435\u0442 - \u0431\u0435\u043d\u0437\u0438\u043d \u0434\u043e\u0440\u043e\u0436\u0430\u0435\u0442. \u041d\u0435\u0444\u0442\u044c \u0434\u043e\u0440\u043e\u0436\u0430\u0435\u0442 - \u0431\u0435\u043d\u0437\u0438\u043d \u0434\u043e\u0440\u043e\u0436\u0430\u0435\u0442. \u041d\u0435\u0444\u0442\u044c \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u0434\u0435\u043b\u0430\u0435\u0442 - \u0431\u0435\u043d\u0437\u0438\u043d \u0434\u043e\u0440\u043e\u0436\u0430\u0435\u0442. \u0411\u0435\u043d\u0437\u0438\u043d \u0446\u0435\u043b\u0435\u0443\u0441\u0442\u0440\u0435\u043c\u043b\u0435\u043d\u043d\u044b\u0439. \u0411\u0443\u0434\u044c \u043a\u0430\u043a \u0431\u0435\u043d\u0437\u0438\u043d.",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": false,
+            "followers_count": 134,
+            "friends_count": 954,
+            "listed_count": 4,
+            "favourites_count": 90209,
+            "statuses_count": 42587,
+            "created_at": "Fri Aug 23 15:16:48 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/612983244099858432\/7WdKPzfh_normal.png",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/612983244099858432\/7WdKPzfh_normal.png",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1694129923\/1434981299",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Apr 16 06:48:03 +0000 2020",
+            "id": 1250677315895472130,
+            "id_str": "1250677315895472130",
+            "text": "\u0414\u0440\u0443\u0437\u044c\u044f, \u043c\u043e\u044f \u0441\u0443\u043f\u0440\u0443\u0433\u0430 \u0438\u0437-\u0437\u0430 \u043a\u0440\u0438\u0437\u0438\u0441\u0430 \u043e\u0441\u0442\u0430\u043b\u0430\u0441\u044c \u0431\u0435\u0437 \u0440\u0430\u0431\u043e\u0442\u044b, \u0435\u0435 \u044d\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u043f\u0430\u0440\u0438\u0442 :(\n\u041c\u043e\u0436\u0435\u0442 \u043a\u043e\u043c\u0443 \u043d\u0443\u0436\u0435\u043d Python Developer, \u043e\u043f\u044b\u2026 https:\/\/t.co\/YBQ1H8bsWK",
+            "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 952900738736418817,
+                "id_str": "952900738736418817",
+                "name": "Suleymanov Tagir",
+                "screen_name": "tagirqaufa",
+                "location": null,
+                "url": null,
+                "description": null,
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1,
+                "friends_count": 136,
+                "listed_count": 0,
+                "favourites_count": 329,
+                "statuses_count": 49,
+                "created_at": "Mon Jan 15 13:50:14 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1151190906097274882\/tEB_cKA__normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1151190906097274882\/tEB_cKA__normal.jpg",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "\u0414\u0440\u0443\u0437\u044c\u044f, \u043c\u043e\u044f \u0441\u0443\u043f\u0440\u0443\u0433\u0430 \u0438\u0437-\u0437\u0430 \u043a\u0440\u0438\u0437\u0438\u0441\u0430 \u043e\u0441\u0442\u0430\u043b\u0430\u0441\u044c \u0431\u0435\u0437 \u0440\u0430\u0431\u043e\u0442\u044b, \u0435\u0435 \u044d\u0442\u043e \u043e\u0447\u0435\u043d\u044c \u043f\u0430\u0440\u0438\u0442 :(\n\u041c\u043e\u0436\u0435\u0442 \u043a\u043e\u043c\u0443 \u043d\u0443\u0436\u0435\u043d Python Developer, \u043e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b \u0447\u0443\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0433\u043e\u0434\u0430.\n\u0421\u0442\u0435\u043a: Python3, Flask, JS, Jquery, PostgreSQL, Git. \u0418\u0437 \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u044f \u0437\u043d\u0430\u044e.\nhttps:\/\/t.co\/JjxWnIMiZs \n@vkozulya \u043f\u043e\u043c\u043e\u0433\u0438! \u0421\u043f\u0430\u0441\u0438\u0431\u043e!",
+                "display_text_range": [
+                    0,
+                    265
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/JjxWnIMiZs",
+                            "expanded_url": "https:\/\/github.com\/chrlstlnaml",
+                            "display_url": "github.com\/chrlstlnaml",
+                            "indices": [
+                                214,
+                                237
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "vkozulya",
+                            "name": "\u0421\u0430\u043c\u043e\u043a\u043e\u0437\u0443\u043b\u044f\u0446\u0438\u044f",
+                            "id": 497743143,
+                            "id_str": "497743143",
+                            "indices": [
+                                239,
+                                248
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 14,
+            "favorite_count": 16,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/YBQ1H8bsWK",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1250677315895472130",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "ru"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "tagirqaufa",
+                    "name": "Suleymanov Tagir",
+                    "id": 952900738736418817,
+                    "id_str": "952900738736418817",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "ru",
+        "timestamp_ms": "1587023374280"
+    },
+    {
+        "created_at": "Thu Apr 16 07:49:34 +0000 2020",
+        "id": 1250692796748464128,
+        "id_str": "1250692796748464128",
+        "text": "RT @ankit_javalkar: Hey, I'm a Python Developer who is looking for a full time remote opportunity.\n\nI have 5 years of experience working on\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 227363436,
+            "id_str": "227363436",
+            "name": "Mehul Ved",
+            "screen_name": "mehulved",
+            "location": "On a cycle somewhere.",
+            "url": "http:\/\/mehulved.com\/",
+            "description": "!( Geek || nerd ), love anything with two wheels, I prefer villains to heroes, Sarcastically Challenged, You don't need to follow me back.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 5137,
+            "friends_count": 2488,
+            "listed_count": 266,
+            "favourites_count": 17026,
+            "statuses_count": 184399,
+            "created_at": "Thu Dec 16 17:02:16 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1104368930150408192\/nZGeTM88_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1104368930150408192\/nZGeTM88_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/227363436\/1499635935",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Apr 16 07:44:59 +0000 2020",
+            "id": 1250691643830722561,
+            "id_str": "1250691643830722561",
+            "text": "Hey, I'm a Python Developer who is looking for a full time remote opportunity.\n\nI have 5 years of experience workin\u2026 https:\/\/t.co\/izIWIif6wq",
+            "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2654032716,
+                "id_str": "2654032716",
+                "name": "Ankit Javalkar",
+                "screen_name": "ankit_javalkar",
+                "location": null,
+                "url": null,
+                "description": "Software Dev, Open Source enthusiast.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 62,
+                "friends_count": 66,
+                "listed_count": 10,
+                "favourites_count": 92,
+                "statuses_count": 641,
+                "created_at": "Thu Jul 17 15:22:08 +0000 2014",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1201382867617533952\/EPOqG6H8_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1201382867617533952\/EPOqG6H8_normal.jpg",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Hey, I'm a Python Developer who is looking for a full time remote opportunity.\n\nI have 5 years of experience working on Python, Django REST APIs, Docker. Open source contributor. Open to learning new tech.\n\nPlease RT ! Thanks!\n\nCC @mehulved @originalankur @PythonMumbai",
+                "display_text_range": [
+                    0,
+                    269
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "mehulved",
+                            "name": "Mehul Ved",
+                            "id": 227363436,
+                            "id_str": "227363436",
+                            "indices": [
+                                231,
+                                240
+                            ]
+                        },
+                        {
+                            "screen_name": "originalankur",
+                            "name": "Ankur Gupta",
+                            "id": 7876572,
+                            "id_str": "7876572",
+                            "indices": [
+                                241,
+                                255
+                            ]
+                        },
+                        {
+                            "screen_name": "PythonMumbai",
+                            "name": "Python Mumbai",
+                            "id": 56362606,
+                            "id_str": "56362606",
+                            "indices": [
+                                256,
+                                269
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/izIWIif6wq",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1250691643830722561",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ankit_javalkar",
+                    "name": "Ankit Javalkar",
+                    "id": 2654032716,
+                    "id_str": "2654032716",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1587023374150"
+    },
+    {
+        "created_at": "Thu Apr 16 10:35:57 +0000 2020",
+        "id": 1250734668426686466,
+        "id_str": "1250734668426686466",
+        "text": "RT @amitabhk87: Amazing ! In India,women\u2019s self-help groups combat the #COVID19 pandemic. More than 19 million  masks have been produced by\u2026",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 255580961,
+            "id_str": "255580961",
+            "name": "saswat kar",
+            "screen_name": "saswat_kar",
+            "location": "Mumbai",
+            "url": null,
+            "description": "You know Me; Knowledge Enthusiast; Human Resource",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 469,
+            "friends_count": 3185,
+            "listed_count": 21,
+            "favourites_count": 4498,
+            "statuses_count": 6559,
+            "created_at": "Mon Feb 21 17:16:58 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3462646089\/19abd1d3dcc086b5249b43df2c397122_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3462646089\/19abd1d3dcc086b5249b43df2c397122_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/255580961\/1364838204",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Apr 16 06:30:34 +0000 2020",
+            "id": 1250672915298701313,
+            "id_str": "1250672915298701313",
+            "text": "Amazing ! In India,women\u2019s self-help groups combat the #COVID19 pandemic. More than 19 million  masks have been pro\u2026 https:\/\/t.co\/THXNwr1fWX",
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 75237089,
+                "id_str": "75237089",
+                "name": "Amitabh Kant",
+                "screen_name": "amitabhk87",
+                "location": "Delhi, India",
+                "url": "http:\/\/www.amitabhkant.in",
+                "description": "CEO,Niti Aayog,GOI. Author-Branding India: An Incredible Story. Driver of Make in India,Startup India,Incredible !ndia & God's Own Country campaigns . IAS:1980",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 444441,
+                "friends_count": 836,
+                "listed_count": 776,
+                "favourites_count": 10309,
+                "statuses_count": 20385,
+                "created_at": "Fri Sep 18 09:00:13 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/602702156165029888\/M4hUz8oe_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/602702156165029888\/M4hUz8oe_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/75237089\/1555221715",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Amazing ! In India,women\u2019s self-help groups combat the #COVID19 pandemic. More than 19 million  masks have been produced by 20,000 SHGs across 27 states, in addition to over 100,000 liters of sanitizer and nearly 50,000 liters of hand wash. https:\/\/t.co\/zBreEwhtJE via @WorldBank",
+                "display_text_range": [
+                    0,
+                    279
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "COVID19",
+                            "indices": [
+                                55,
+                                63
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/zBreEwhtJE",
+                            "expanded_url": "https:\/\/www.worldbank.org\/en\/news\/feature\/2020\/04\/11\/women-self-help-groups-combat-covid19-coronavirus-pandemic-india?cid=SHR_SitesShareTT_EN_EXT",
+                            "display_url": "worldbank.org\/en\/news\/featur\u2026",
+                            "indices": [
+                                241,
+                                264
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "WorldBank",
+                            "name": "World Bank",
+                            "id": 27860681,
+                            "id_str": "27860681",
+                            "indices": [
+                                269,
+                                279
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 8,
+            "reply_count": 11,
+            "retweet_count": 58,
+            "favorite_count": 197,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            55,
+                            63
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/THXNwr1fWX",
+                        "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1250672915298701313",
+                        "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        71,
+                        79
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "amitabhk87",
+                    "name": "Amitabh Kant",
+                    "id": 75237089,
+                    "id_str": "75237089",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1587033357136"
+    },
+    {
+        "created_at": "Thu Apr 16 10:50:53 +0000 2020",
+        "id": 1250738428192231426,
+        "id_str": "1250738428192231426",
+        "text": "\u65b0\u578b\u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9\u306e\u611f\u67d3\u306f\u65e5\u672c\u3067\u3082\u5e83\u304c\u3063\u3066\u3044\u308b\u30021\u65e5\u3042\u305f\u308a\u306b\u78ba\u8a8d\u3055\u308c\u305f\u611f\u67d3\u8005\u3092\u898b\u308b\u3068\u30014\u670815\u65e5\u306f\u6771\u4eac\u90fd\u3067127\u4eba\u3060\u3063\u305f\u3002\u65b0\u898f\u611f\u67d3\u8005\u306e\u3046\u3061\u6771\u4eac\u90fd\u306e\u5272\u5408\u306f23\uff05\u3092\u5360\u3081\u308b\u3002\u611f\u67d3\u8005\u3084\u6b7b\u8005\u3001\u691c\u67fb\u306e\u6570\u306a\u3069\u65e5\u672c\u306e\u30c7\u30fc\u30bf\u3092\u30c1\u30e3\u30fc\u30c8\u3067\u898b\u308b\u3002\u2026 https:\/\/t.co\/wyIV8MJ5ds",
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15029891,
+            "id_str": "15029891",
+            "name": "\u306f \u3056 \u304f \u307f \ud83d\udd4a",
+            "screen_name": "hazakumi",
+            "location": "\u795e\u6238",
+            "url": "http:\/\/hazakumi.com",
+            "description": "\u795e\u6238\u306e\u30a4\u30e9\u30b9\u30c8\u30ec\u30fc\u30bf\u30fc\u30fb\u5c0f\u9ce5\u597d\u304d\u25c6\u8457\u30fb\u3088\u304f\u308f\u304b\u308bFireworks\u306e\u6559\u79d1\u66f8\u25c6\u30b9\u30bf\u30f3\u30d7 http:\/\/goo.gl\/Hh4pof \u25c6\u4e0d\u52d5\u7523\u30d7\u30e9\u30b0\u30a4\u30f3http:\/\/nendeb.jp\/ \u25c6YouTube https:\/\/goo.gl\/2diXuK \u25c6\u4ed6\u2192 http:\/\/twpf.jp\/hazakumi",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1935,
+            "friends_count": 3007,
+            "listed_count": 122,
+            "favourites_count": 30418,
+            "statuses_count": 42929,
+            "created_at": "Fri Jun 06 14:36:01 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "0388B0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "profile_use_background_image": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1209841257293369345\/XMZ0gv7E_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1209841257293369345\/XMZ0gv7E_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/15029891\/1580027213",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "\u65b0\u578b\u30b3\u30ed\u30ca\u30a6\u30a4\u30eb\u30b9\u306e\u611f\u67d3\u306f\u65e5\u672c\u3067\u3082\u5e83\u304c\u3063\u3066\u3044\u308b\u30021\u65e5\u3042\u305f\u308a\u306b\u78ba\u8a8d\u3055\u308c\u305f\u611f\u67d3\u8005\u3092\u898b\u308b\u3068\u30014\u670815\u65e5\u306f\u6771\u4eac\u90fd\u3067127\u4eba\u3060\u3063\u305f\u3002\u65b0\u898f\u611f\u67d3\u8005\u306e\u3046\u3061\u6771\u4eac\u90fd\u306e\u5272\u5408\u306f23\uff05\u3092\u5360\u3081\u308b\u3002\u611f\u67d3\u8005\u3084\u6b7b\u8005\u3001\u691c\u67fb\u306e\u6570\u306a\u3069\u65e5\u672c\u306e\u30c7\u30fc\u30bf\u3092\u30c1\u30e3\u30fc\u30c8\u3067\u898b\u308b\u3002 #\u65e5\u7d4c\u30d3\u30b8\u30e5\u30a2\u30eb\u30c7\u30fc\u30bf  https:\/\/t.co\/LA8CkLwqum",
+            "display_text_range": [
+                0,
+                149
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u65e5\u7d4c\u30d3\u30b8\u30e5\u30a2\u30eb\u30c7\u30fc\u30bf",
+                        "indices": [
+                            113,
+                            124
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/LA8CkLwqum",
+                        "expanded_url": "https:\/\/vdata.nikkei.com\/newsgraphics\/coronavirus-japan-chart\/",
+                        "display_url": "vdata.nikkei.com\/newsgraphics\/c\u2026",
+                        "indices": [
+                            126,
+                            149
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https:\/\/t.co\/wyIV8MJ5ds",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1250738428192231426",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [
+                        114,
+                        137
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "ja",
+        "timestamp_ms": "1587034253534"
+    },
+    {
+        "created_at": "Thu Apr 16 10:55:05 +0000 2020",
+        "id": 1250739483990831106,
+        "id_str": "1250739483990831106",
+        "text": "@lizb_2010 Whenever #money is handed out I like to see #education go with it \ud83d\ude0a",
+        "display_text_range": [
+            11,
+            78
+        ],
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "truncated": false,
+        "in_reply_to_status_id": 1250611258249760768,
+        "in_reply_to_status_id_str": "1250611258249760768",
+        "in_reply_to_user_id": 94777829,
+        "in_reply_to_user_id_str": "94777829",
+        "in_reply_to_screen_name": "lizb_2010",
+        "user": {
+            "id": 269762311,
+            "id_str": "269762311",
+            "name": "Your Money Mistress",
+            "screen_name": "YMM08",
+            "location": "Lismore, New South Wales",
+            "url": "http:\/\/www.yourmoneymistress.com",
+            "description": "Environmental guardian, named the Energiser Bunny promoting More Love & Less Debt! See http:\/\/www.yourmoneymistress.com & http:\/\/www.financialfitness.com.au",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 243,
+            "friends_count": 566,
+            "listed_count": 3,
+            "favourites_count": 656,
+            "statuses_count": 1291,
+            "created_at": "Mon Mar 21 12:03:38 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "00B865",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme4\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme4\/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "7B00B8",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/541756321758867456\/87i6g5Y-_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/541756321758867456\/87i6g5Y-_normal.jpeg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/269762311\/1417999209",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "00ab85f13f01be8c",
+            "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/00ab85f13f01be8c.json",
+            "place_type": "city",
+            "name": "Vincentia",
+            "full_name": "Vincentia, New South Wales",
+            "country_code": "AU",
+            "country": "Australia",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            150.667486,
+                            -35.086720
+                        ],
+                        [
+                            150.667486,
+                            -35.050250
+                        ],
+                        [
+                            150.697959,
+                            -35.050250
+                        ],
+                        [
+                            150.697959,
+                            -35.086720
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "money",
+                    "indices": [
+                        20,
+                        26
+                    ]
+                },
+                {
+                    "text": "education",
+                    "indices": [
+                        55,
+                        65
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lizb_2010",
+                    "name": "Liz Boulton",
+                    "id": 94777829,
+                    "id_str": "94777829",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1587034505256"
+    },
+    {
+        "created_at": "Thu Apr 16 10:55:00 +0000 2020",
+        "id": 1250739466127331328,
+        "id_str": "1250739466127331328",
+        "text": "A2. Every concept can be built through a different context from every student if needs be! Take the time to build t\u2026 https:\/\/t.co\/e81lhxHHCw",
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1255646863,
+            "id_str": "1255646863",
+            "name": "MYDTECH",
+            "screen_name": "yeates_mark",
+            "location": "Buddina, Sunshine Coast",
+            "url": "http:\/\/www.MYDTECH.net",
+            "description": "Educator who strives to create opportunity for failure whilst searching for success! While explaining the Why!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4568,
+            "friends_count": 5005,
+            "listed_count": 200,
+            "favourites_count": 10295,
+            "statuses_count": 24666,
+            "created_at": "Sat Mar 09 23:40:52 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1216886717216509952\/nTVnC48I_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1216886717216509952\/nTVnC48I_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1255646863\/1464870817",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "009b89410157afec",
+            "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/009b89410157afec.json",
+            "place_type": "city",
+            "name": "Sunshine Coast",
+            "full_name": "Sunshine Coast, Queensland",
+            "country_code": "AU",
+            "country": "Australia",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            152.996920,
+                            -26.853342
+                        ],
+                        [
+                            152.996920,
+                            -26.359623
+                        ],
+                        [
+                            153.151394,
+                            -26.359623
+                        ],
+                        [
+                            153.151394,
+                            -26.853342
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "A2. Every concept can be built through a different context from every student if needs be! Take the time to build the foundations. Eg- Discovery materials- sand, water, concrete, steel, plastic, and so on! Take the time in Primary! #PrimarySTEMChat",
+            "display_text_range": [
+                0,
+                248
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PrimarySTEMChat",
+                        "indices": [
+                            232,
+                            248
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https:\/\/t.co\/e81lhxHHCw",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1250739466127331328",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1587034500997"
+    }
+]
